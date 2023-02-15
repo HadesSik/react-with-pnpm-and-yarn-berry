@@ -1,9 +1,9 @@
 import styled from '@emotion/styled';
 
-const MainPage = () => {
+const HomePage = () => {
   return <StyledWrapper>children</StyledWrapper>;
 };
 
-export default MainPage;
+export default HomePage;
 
 const StyledWrapper = styled.div``;
