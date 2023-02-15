@@ -1,7 +1,7 @@
 {
-  "name": "my-vue-app",
+  "name": "react-with-pnpm-and-yarn-berry",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -18,5 +18,6 @@
     "@vitejs/plugin-react": "^3.1.0",
     "typescript": "^4.9.3",
     "vite": "^4.1.0"
-  }
+  },
+  "packageManager": "yarn@3.4.1"
 }
